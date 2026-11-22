@@ -16,7 +16,3 @@ Work out net profit per unit, margin, ROI and break-even price for an Amazon FBA
 The **Amazon Product Profit Calculator** spreadsheet pack compares many SKUs side by side: **$19**, one-time.
 
 - Buy with a card (Stripe): https://buy.stripe.com/aFaaEQga3fkUgEagD90x32E
-
-## License
-
-The free calculator page in this repository is MIT licensed.
